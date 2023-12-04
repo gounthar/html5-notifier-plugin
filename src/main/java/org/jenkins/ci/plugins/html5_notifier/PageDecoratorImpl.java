@@ -27,7 +27,7 @@ package org.jenkins.ci.plugins.html5_notifier;
 import hudson.Extension;
 import hudson.model.PageDecorator;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 /**
  * A simple {@link hudson.model.PageDecorator} which

@@ -36,7 +36,7 @@ import java.util.List;
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 /**
  * Conveniently keep track of all {@link Run}s as they complete, as
